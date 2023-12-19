@@ -34,9 +34,10 @@
 
 ### Output:
 
+![Screenshot 2023-12-19 223052](https://github.com/Hashwatha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231431/cf56d8f2-5238-434c-a43b-c34528c3c7f9)
 
-### Name:
-### Register Number:
+### Name: M.Hashwatha
+### Register Number: 23012398
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
